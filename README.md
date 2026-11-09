@@ -27,8 +27,8 @@
 
 ## Lab08
 
-  ##Receiver 
+  Receiver -  
     `eecs_388_lib2.c`, `eecs_388_li2.h`, `eecs_388_uart2.cpp`, `platformio.ini`
 
-  ##Sender
+  Sender - 
     `eecs_388_lib1.c`, `eecs_388_lib1.h`, `eecs_uart1.cpp`, `platformio.ini`
